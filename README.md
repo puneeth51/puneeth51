@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @puneeth51
+- 👋 Hi, I’m @PuneethGondela
 - 👀 I’m interested in AI/Cyber Security
 - 🌱 I’m currently learning DataScience
 - 💞️ I’m looking to collaborate on .
